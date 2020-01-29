@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="VSIXProject3.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Domain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestURL</Value>
+    </Setting>
+    <Setting Name="SecretKey" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestSecretKey</Value>
+    </Setting>
+    <Setting Name="ProjectNameInTestIT" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestProjectNameInTestIT</Value>
+    </Setting>
+    <Setting Name="RepositoryLink" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestRepositoryLink</Value>
+    </Setting>
+    <Setting Name="AssemblyPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestAssemblyPath</Value>
+    </Setting>
+    <Setting Name="ActualSolutionPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestActualSolutionPath</Value>
+    </Setting>
+    <Setting Name="ProjectName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestProjectName</Value>
+    </Setting>
+    <Setting Name="TestProject" Type="System.String" Scope="User">
+      <Value Profile="(Default)">TestTestProject</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

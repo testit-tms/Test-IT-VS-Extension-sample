@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSIXProject3", "VSIX\VSIXProject3.csproj", "{A8C57C4E-6303-46D1-BEA2-E19D318E3E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestIT.Linker", "Library\TestIT.Linker.csproj", "{B9891EA7-7769-491D-93BA-51A84FF19C94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8C57C4E-6303-46D1-BEA2-E19D318E3E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8C57C4E-6303-46D1-BEA2-E19D318E3E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8C57C4E-6303-46D1-BEA2-E19D318E3E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8C57C4E-6303-46D1-BEA2-E19D318E3E92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9891EA7-7769-491D-93BA-51A84FF19C94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9891EA7-7769-491D-93BA-51A84FF19C94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9891EA7-7769-491D-93BA-51A84FF19C94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9891EA7-7769-491D-93BA-51A84FF19C94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1422E23-9C55-4DCB-8640-3742304D947C}
+	EndGlobalSection
+EndGlobal
