@@ -1,7 +1,7 @@
-# TestIT-VS-Extension-sample
+# Test-IT-VS-Extension-sample
 
-## TestIT-VS-Extension-sample - Extension for Visual Studio using [Test IT](https://testit.software) system.
-This is an extension for Visual Studio, which allows you to use the IDE resources to create autotests on the TestIT system.
+## Test-IT-VS-Extension-sample - Extension for Visual Studio using [Test IT](https://testit.software) system.
+This is an extension for Visual Studio, which allows you to use the IDE resources to create autotests on the Test IT system.
 You can get started with the extension by assembling it in your Visual Studio.
 
 ## Instruction for use
@@ -9,14 +9,14 @@ You can get started with the extension by assembling it in your Visual Studio.
 2. Build this solution.
 3. Find the `VSIXProject3.vsix` file in Debug/Release or another output catalog and install it.
 4. Launch Visual Studio and create a new solution. To view a working example, add `UnitTestProject` project from this repository to your solution. Then assemble the solution.
-5. Find TestIT on the toolbar, open it and go to settings. Fill in the fields. After that save the settings.
-    - `URL`: URL to TestIT system, you can use `https://demo.testit.software/`;
-    - `Secret key`: `$Secret key` of your account on the TestIT portal;
-    - `Project name in Test IT`: name of your project on the TestIT portal;
+5. Find `Test IT` button on the toolbar, open it and go to settings. Fill in the fields. After that save the settings.
+    - `URL`: URL to Test IT system, you can use `https://demo.testit.software/`;
+    - `Secret key`: `$Secret key` of your account on the Test IT portal;
+    - `Project name in Test IT`: name of your project on the Test IT portal;
     - `Test project`: your project containing tests in opened solution;
     - `Project dll`: assembly file (* .dll) of your test project;
     - `Repository link`: link to your repository.
-6. Click `TestIT` - `Run`. The process of creating autotests in the Test IT system can be observed in the output window. 
+6. Click `Test IT` - `Run`. The process of creating autotests in the Test IT system can be observed in the output window. 
 
 ### Developers
 Visual Studio Extension: [Mihail Pirogovsky](https://github.com/developman2013)
