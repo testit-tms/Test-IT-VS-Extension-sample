@@ -18,6 +18,9 @@ You can get started with the extension by assembling it in your Visual Studio.
     - `Repository link`: link to your repository.
 6. Click `Test IT` - `Run`. The process of creating autotests in the Test IT system can be observed in the output window. 
 
+### Contribution
+Please, follow recommendations and get more details at [CONTRIBUTING](CONTRIBUTING.md) file
+
 ### Developers
 Visual Studio Extension: [Mihail Pirogovsky](https://github.com/developman2013)
    
