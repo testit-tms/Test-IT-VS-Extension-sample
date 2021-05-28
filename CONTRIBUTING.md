@@ -22,12 +22,7 @@ Refer [README](README.md) file for details
 ## Security issues
 If you find a security vulnerability, do NOT open an issue. Email <support@testit.software> instead.
 
-In order to determine whether you are dealing with a security issue, ask yourself these two questions:
-
- - Can I access something that's not mine, or something I shouldn't have access to?
- - Can I disable something for other people?
-
-If the answer to either of those two questions are "yes", then you're probably dealing with a security issue. Note that even if you answer "no" to both questions, you may still be dealing with a security issue, so if you're unsure, just email us at <support@testit.software>.
+For example you got access to projects or data you're not supposed to have access to. That's definitely a security issue and we appreciate if you contact us directly. Even if you are not sure if that is a security issue, just email us at <support@testit.software>.
 
 ## Regular issues/suggestions
 We kindly recommend you to follow issue template when filing a new one. Please, ensure that your statements are easy to understand and follow.
@@ -36,7 +31,7 @@ We kindly recommend you to follow issue template when filing a new one. Please, 
 Pull requests is the only acceptable contibution method.
 
 ## Make a pull request
- - You need a local fork of the Github repository.
+ - You need a local fork of the repository in GitHub.
  - Use a separate 'feature' branch for your changes. The branch should be followed by the feature/ prefix and have an undestantandable name describing the mail goal of the changes<br>
 <i>Ex: features/Added_support_for_new_API.</i><br>
     `git checkout -b features/Added_support_for_new_API`
@@ -49,7 +44,7 @@ Pull requests is the only acceptable contibution method.
  <br><br>
  - If you need to add new commits to the pull request, you can simply commit the changed to the local branch and then push them to update the pull request<br>
     `git commit -m "Addressed pull request comments"`<br>
-    `git push`
+    `git push -f`
 
 ## Keeping your pull request up-to-date
 We use rebase flow to keep your code up-to-date. If a maintainer asks you to "rebase" your PR, they're saying that a lot of code has changed, and that you need to update your branch so it's easier to merge.
